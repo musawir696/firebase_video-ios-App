@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216954112551",
+    "project_id": "video-8ebc2",
+    "storage_bucket": "video-8ebc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216954112551:android:2ad66830f358941a0adc02",
+        "android_client_info": {
+          "package_name": "com.example.video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIeomWD_2BM9hYijW8gDrTJX6W2FI66lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
